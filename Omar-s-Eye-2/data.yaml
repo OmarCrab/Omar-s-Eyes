@@ -1,0 +1,12 @@
+names:
+- Green-circles
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: omar-s-eye
+  url: https://universe.roboflow.com/omars-git/omar-s-eye/dataset/2
+  version: 2
+  workspace: omars-git
+test: ../test/images
+train: C:/Omar-s-Eye/Omar-s-Eye-2/train/images
+val: C:/Omar-s-Eye/Omar-s-Eye-2/valid/images
