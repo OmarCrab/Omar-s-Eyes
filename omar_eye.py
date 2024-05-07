@@ -4,7 +4,7 @@ import numpy as np
 import keras
 from keras.models import load_model
 
-bot = telebot.TeleBot('6572398738:AAH2_NB28d2_-zsKaSTzRgJy5GMJGG-XMrU')  # Замените 'YOUR_BOT_TOKEN' на ваш токен
+bot = telebot.TeleBot('TOKEN') 
 
 model = keras.models.load_model('Augury/Omar_eye_1.h5')
 
